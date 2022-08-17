@@ -1,0 +1,27 @@
+CSS Selector Syntax
+			selector{ property:value;,.. }
+
+			selector{ 
+										property:value;
+										property:value;
+		 	}
+
+CSS Selector
+		1. ID Selector #
+		2. Class Selector  .
+
+
+Types Of HTML Tags
+	1. Singular Tags
+			e.g  doctype, meta, img
+	2. Paired Tags
+			e.g  html,head,body
+
+Self Close (Singlular Tags)
+<img>
+or
+<img />(Self Closing)
+
+<start attribute="value">conten</endtag>
+
+Meta Tags are very import for SEO(Search Engine Optimation)
